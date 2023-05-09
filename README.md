@@ -1,6 +1,6 @@
 # Source Code for JumpJumpJumpJump
 
-JumpJumpJumpJump is a next-gen, holistic and blazingly fast game written in pure JavaScript (what is Typescript). The goal: bring the enemy statue back to your side. You can play the game on [heroku](https://jumpjumpjumpjump.herokuapp.com/)
+JumpJumpJumpJump is a next-gen, holistic and blazingly fast game written in pure JavaScript (what is Typescript). The goal: bring the enemy statue back to your side. 
 
 # Game Instructions
 
